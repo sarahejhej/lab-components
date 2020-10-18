@@ -1,0 +1,19 @@
+.button {
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.button--enabled {
+  background-color: green;
+}
+
+.button--disabled {
+  color: lightgray;
+  background-color: gray;
+}
+
+.button--warning {
+  background-color: red;
+}
